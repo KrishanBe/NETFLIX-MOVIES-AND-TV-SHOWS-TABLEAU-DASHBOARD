@@ -11,7 +11,7 @@ Methodology
 Insights
 Conclusion
 
-INTRODUCTION
+1. INTRODUCTION
 The entertainment industry has greatly benefited from data analysis, which has led to the identification of rating categories and increased productivity, resulting in higher revenue. Moreover, data analysis empowers viewers to access products and services that align with their preferences. Tableau, a powerful data visualization tool, facilitates data analysis from various sources, making it ideal for exploring the vast collection of Netflix movies and TV shows.
 
 2. METHODOLGY
@@ -45,7 +45,7 @@ v. Years: It indicates that Movies have always dominated the industry with highe
 
 vi. I also categorized the TV show/series, The Blacklist into type, title, rating, duration, date added, description, release year, genre and release year.
 
-ONCLUSION
+4. CONCLUSION
 Creating a Tableau dashboard for Netflix movies and TV shows is an effective way to explore the vast content library and make informed decisions about what to watch. By employing best practices in dashboard design, such as simplicity, consistency in colors and fonts, and choosing the right visualizations, the dashboard can present the data in an engaging and visually appealing manner. Overall, the dashboard serves as a valuable tool to understand Netflix’s content trends and user preferences, ultimately enhancing the viewer’s streaming experience.
 
 
