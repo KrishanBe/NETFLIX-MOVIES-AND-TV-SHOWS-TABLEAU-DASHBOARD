@@ -1,5 +1,3 @@
-Netflix is one of the most popular streaming services in the world, with a vast collection of movies and TV shows. With so many options available, it can be challenging to choose what to watch. Fortunately, Tableau can help you explore the Netflix catalog and make informed decisions about what to stream next. In this tutorial, we will guide you through the process of creating a Tableau dashboard that visualizes Netflix’s content.
-
 ## LINKS:
 
 [Go to my Dashboard](https://public.tableau.com/app/profile/krishan.mohan.beniwal/viz/NetflixTitlesProject/Netflix?publish=yes)
